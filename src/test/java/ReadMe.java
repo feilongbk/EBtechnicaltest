@@ -1,7 +1,7 @@
 public class ReadMe {
     /*
     Preparation:
-    1/Create a directory named "TechnioalTest" on the desktop
+    1/Create a directory named "TechnicalTest" on the desktop. Copy the xag.csv into this directory.
     2/ Make sure that junit is imported by maven
     3/ Run SimpleAggregationRunner_UT first to verify the result
         * add more input files if you want to observe the performance by looking at this line in the console:
